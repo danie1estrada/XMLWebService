@@ -21,7 +21,7 @@ public class WSConverTemps {
      */
     @WebMethod(operationName = "hello")
     public String hello(@WebParam(name = "name") String txt) {
-        return "Hello " + txt + " !";
+        return "No te lo mereces por picarme la costilla >:'v";
     }
     
     @WebMethod(operationName = "FahrenheitToCelsius")
